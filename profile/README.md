@@ -6,15 +6,15 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"  min-width="400px" max-width="400px" width="400px" /></p>
 
 
 <h3> 🎯 Objetivo</h3>
 
 O principal objetivo do CADI-Project é desenvolver projetos desafiadores e colaborativos que:   
-🔹 Melhorem nossas habilidades técnicas em diferentes tecnologias.   
-🔹 Promovam o trabalho em equipe e a troca de conhecimentos.   
-🔹Criem soluções inovadoras e práticas para problemas do dia a dia.   
+🔹 Melhorem nossas habilidades técnicas em diferentes tecnologias.     
+🔹 Promovam o trabalho em equipe e a troca de conhecimentos.    
+🔹Criem soluções inovadoras e práticas para problemas do dia a dia.    
 
  <h3>Tecnologias Utilizadas</h3>
 

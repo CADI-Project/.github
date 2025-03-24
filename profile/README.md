@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Bem-vindo ao CADI-Project! 👁️</h1>
+<h1 align="center"> 👋 Bem-vindo ao CADI-Project! 👁</h1>
 
 
 
@@ -9,27 +9,27 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-<h3>Objetivo</h3>
+<h3> 🎯 Objetivo</h3>
 
-O principal objetivo do CADI-Project é desenvolver projetos desafiadores e colaborativos que:
-- Melhorem nossas habilidades técnicas em diferentes tecnologias.
-- Promovam o trabalho em equipe e a troca de conhecimentos.
-- Criem soluções inovadoras e práticas para problemas do dia a dia.
+O principal objetivo do CADI-Project é desenvolver projetos desafiadores e colaborativos que:   
+🔹 Melhorem nossas habilidades técnicas em diferentes tecnologias.   
+🔹 Promovam o trabalho em equipe e a troca de conhecimentos.   
+🔹Criem soluções inovadoras e práticas para problemas do dia a dia.   
 
  <h3>Tecnologias Utilizadas</h3>
 
-As tecnologias que podem ser utilizadas incluem, mas não se limitam a:
-- **Front-end**: HTML, CSS, JavaScript, React, Vue.js
-- **Back-end**: Node.js, PHP, Python, MySQL, MongoDB
-- **DevOps**: Docker, GitHub Actions, CI/CD
-- **Testes**: Jest, Mocha, Cypress
+As tecnologias que podem ser utilizadas::    
+🔹 **Front-end**: HTML, CSS, JavaScript, React, Vue.js   
+🔹**Back-end**: Node.js, PHP, Python, MySQL, MongoDB   
+🔹 **DevOps**: Docker, GitHub Actions, CI/CD  
+🔹**Testes**: Jest, Mocha, Cypress    
 <br>
 
 
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💼 Linguagens e  Ferramentas:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">

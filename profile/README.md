@@ -51,7 +51,16 @@ As tecnologias que podem ser utilizadas incluem, mas não se limitam a:
 
 | Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
 | ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-active-contributors?owner_id=11855343&period=past_28_days&activity=active" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?owner_id=11855343&period=past_28_days&activity=active&image_size=2x3&color_scheme=dark" width="273" height="auto">
+    <img alt="Active participants of pingcap - past 28 days" src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?owner_id=11855343&period=past_28_days&activity=active&image_size=2x3&color_scheme=light" width="273" height="auto">
+  </picture>
+</a>
+
+<
 
 | Star Geographic Distribution | Star History |
 | ----------- | ----------- |
